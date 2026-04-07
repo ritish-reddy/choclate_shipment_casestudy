@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Resume Summary:**
+
 > Analyzed global shipment data using Excel (data cleaning & pivot analysis), Python (data processing & trend analysis), and Power BI (interactive dashboards) to identify top-selling products and key import markets, enabling insights for pricing strategy, demand forecasting, inventory optimization, and market expansion.
 
 ---
